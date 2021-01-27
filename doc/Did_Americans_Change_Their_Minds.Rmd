@@ -1,5 +1,5 @@
 ---
-title: "How Americans Vote"
+title: "Did Americans Change Their Minds?"
 output:
   html_document:
     df_print: paged
@@ -8,7 +8,7 @@ output:
 ```{r setup, include=FALSE, eval=TRUE}
 knitr::opts_chunk$set(eval = TRUE, echo = FALSE, warning=FALSE)
 ```
-Yibai Liu
+Name: Yibai Liu
 
 UNI: yl4616
 
