@@ -1,0 +1,50 @@
+2019_var,2020_var,desc
+regis,reg1,Voter Registration
+vote16,vote16,Vote 2016
+particip_1,meeting,Participation: Attended a meeting
+particip_2,moneyorg,Participation: Given money to an organization
+particip_3,protest,Participation: Joined in a protest march/rally
+particip_4,online,Participation: Posted a message or comment online about a political issue
+particip_5,persuade,Participation: Tried to persuade anyone to vote
+particip_6,button,"Participation: Worn a campaign button, place a sticker/sign"
+particip_7,moneycand,Participation: Given money to any candidate
+particip_8,argument,Participation: Gotten into a political argument
+particip_9,particip_none,Participation: None of these
+particip_count,particip_count,Participation count summary
+vote20jb,vote20jb,Vote 2020 preference
+apppres,apppres7,Trump Job Approval: president
+frnpres,frnpres7,Trump Job Approval: foreign relations
+immpres,immpres7,Trump Job Approval: immigration
+econpres,econpres7,Trump Job Approval: economy
+econnow,econnow,Economy now
+finworry,finworry,Financial concerns
+confecon,confecon,Confidence in econ
+hlthcare1,hlthcare1,Gov responsibility for paying for healthcare
+hlthcare2,hlthcare2,Future healthcare concerns
+experts,experts,Faith in experts: trust
+science,science,Faith in experts: science in gov decision-making
+exphelp,exphelp,Faith in experts: help of experts
+excessive,excessive,Police force
+socmed_1,socmed_1,Social media use: Facebook
+socmed_2,socmed_2,Social media use: Twitter
+socmed_3,socmed_3,Social media use: Instagram
+socmed_4,socmed_4,Social media use: Reddit
+socmed_5,socmed_5,Social media use: YouTube
+socmed_6,socmed_6,Social media use: Snapchat
+socmed_7,socmed_7,Social media use: TikTok
+socmed_8,socmed_8,Social media use: Other
+socmed_9,socmed_9,Social media use: None of these
+twitter1,twitter1,Twitter use
+racegr,racegr,Race
+gender,sex,Sex/gender
+educ,educ,Education level
+faminc_new,income,Family income
+birthyr,birthyr,Year of birth
+covidpres,covidpres7,Trump Job Approval: covid-19
+healthcarepres,healthcarepres7,Trump Job Approval: healthcare
+,covid1,Concern about getting covid-19
+,covid2,Concern about impacts of covid-19
+,mis_covid1,Covid (Mis)information 1
+,conf_covid1,Confidence 1
+,mis_covid2,Covid (Mis)information 2
+,conf_covid2,Confidence 2
