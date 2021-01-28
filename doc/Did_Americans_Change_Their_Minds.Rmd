@@ -11,6 +11,7 @@ knitr::opts_chunk$set(eval = TRUE, echo = FALSE, warning=FALSE)
 Name: Yibai Liu
 
 UNI: yl4616
+<img src="../figs/wordcloud.png" width="800">
 
 ```{r load libraries, include=FALSE}
 packages.used=as.list(
@@ -323,7 +324,11 @@ plot.likert(question_num ~.|Subtable, df_pres,
 ```
 
 As the diverging bar chart shown above, I divided the responses into four groups by year and by retrospective candidate choice in 2016, as discussed earlier. On the left, the respondents voted for Trump in 2016, while respondents on the right half of the plot used to vote for Clinton in 2016. In the 2020 pilot study, two additional questions about covid-19 and healthcare were asked, and respondents were randomly assigned to one of the questions.
-It is clear that these groups had bipolar evaluations on President Trump's work in every aspect. The vast majority of Trump's supporters were satisfied with Trump's work in all aspects being asked about, however, in the 2020 survey, some of Trump's supporters appeared to disapprove Trump's way of handling Covid-19 and/or healthcare. There were also some swings among respondents who voted for Clinton in the 2020 survey. From 2019 to 2020, more of Trump's supporters turned to feel disappointed about Trump's job, and this might become a cause for Trump to be defeated in the 2020 Presidential Election. 
+It is clear that these groups had bipolar evaluations on President Trump's work in every aspect. The vast majority of Trump's supporters were satisfied with Trump's work in all aspects being asked about, however, in the 2020 survey, some of Trump's supporters appeared to disapprove Trump's way of handling Covid-19 and/or healthcare. There were also some swings among respondents who voted for Clinton in the 2020 survey. 
+
+<img src="../figs/approval.png" width="600">
+
+According to polls of [RealClear Politics](https://www.realclearpolitics.com/epolls/other/president_trump_job_approval-6179.html#!), Around April 2020, when the 2020 survey was conducted, Trump actually marked his highest job approval ratings in recent two years, thanks to the $2.2 billion Coronavirus Economic Relief Bill he signed on March 25, 2020. However, his approval ratings continued to drop as cases of Covid-19 skyrocketed. His low job approval ratings in polls along with disappointment of supporters might have implied Trump being defeated in the 2020 Presidential Election. 
 
 ## 4. Impacts of Covid-19 in the election year 2020 
 
@@ -390,4 +395,5 @@ Because the ANES pilot studies depended on web surveys which respondents earn re
 
 ### Source:
 knitr - Figures and Tables: http://kbroman.org/knitr_knutshell/pages/figs_tables.html
+Real Clear Politics Polls: https://www.realclearpolitics.com/epolls/other/president_trump_job_approval-6179.html
 
